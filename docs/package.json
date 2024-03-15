@@ -1,0 +1,23 @@
+{
+    "name": "jengal-lib",
+    "version": "0.0.1",
+    "description": "Jengal Software public front-end library documentation.",
+    "main": "index.js",
+    "scripts": {
+        "start-ssr": "docsify start .",
+        "start": "docsify serve --open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/#.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/#"
+    },
+    "homepage": "https://github.com/oguzhan18/#readme",
+    "devDependencies": {
+        "docsify-cli": "^4.4.3"
+    }
+}

@@ -1,6 +1,6 @@
 {
   "name": "html-attribute-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript library for managing HTML elements with specific attributes.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "manager",
     "javascript"
   ],
-  "author": "Your Name",
+  "author": "Oğuzhan ÇART",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oguzhan18/html-attribute-manager/issues"

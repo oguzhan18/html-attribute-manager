@@ -1,4 +1,4 @@
 * Getting Started
-    * [Getting Started](/getting-started/getting-started)
-* Library
-    * [JS Slider](/layout-property/js-slider)
+    * [Installation](/getting-started/getting-started)
+* Usage
+    * [Usage](/layout-property/html-attribute-manager)

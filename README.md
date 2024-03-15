@@ -5,7 +5,7 @@
 ````bash
 npm install html-attribute-manager
 ````
-<a href="https://www.npmjs.com/package/html-attribute-manager" tagret="_blanl"> Click for npmJS.com URL </a>
+<a href="https://www.npmjs.com/package/html-attribute-manager" tagret="_blanl"> Click for npmJS.com URL </a> <br>
 <a href="https://html-attribute-manager.vercel.app/#/" tagret="_blanl">Click for Documentation URL</a>
 
 ## Usage

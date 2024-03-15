@@ -1,9 +1,9 @@
 
 <span><svg width="256px" height="256px" viewBox="-1.26 -1.26 20.52 20.52" xmlns="http://www.w3.org/2000/svg" mirror-in-rtl="true" fill="#000000" stroke="#000000" transform="rotate(0)" stroke-width="0.45"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.18"></g><g id="SVGRepo_iconCarrier"> <path fill="#f0f0f0" d="M12.6 0H1.4A1.417 1.417 0 0 0 0 1.43v15.14A1.417 1.417 0 0 0 1.4 18h11.2a1.355 1.355 0 0 0 .2-.02A4.992 4.992 0 0 1 13 8a5.468 5.468 0 0 1 1 .1V1.43A1.417 1.417 0 0 0 12.6 0zM5 12H3a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2zm3-4H3a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2zm3-4H3.03a1 1 0 0 1 0-2H11a1 1 0 0 1 0 2z"></path> <path fill="#f0f0f0" d="M12.89 14.55a.993.993 0 0 1-.44 1.34.934.934 0 0 1-.45.11.98.98 0 0 1-.89-.55l-1-2a.965.965 0 0 1 0-.89c.01-.03.03-.06.04-.09l.96-1.92a1 1 0 1 1 1.78.9L12.12 13zM17.89 13.44l-1 2.01A.98.98 0 0 1 16 16a1.05 1.05 0 0 1-.45-.1 1.007 1.007 0 0 1-.44-1.35l.77-1.55-.77-1.55a1 1 0 1 1 1.78-.9l.96 1.91.04.09a.965.965 0 0 1 0 .89z"></path> </g></svg></span> 
 
-[//]: # (# <span style="color:black; font-weight:800;">JS UI <small>1.0.0</small></span> )
+[//]: # (# <span style="color:black; font-weight:800;">HTML Attribute Manager <small>1.0.0</small></span> )
 <span>
-Get rid of framework dependency now. HTML attribute manager system, where we can create and manage HTML attributes with HAT, is completely up to your discretion.
+Get rid of framework dependency now. HTML Attribute Manager system, where we can create and manage HTML attributes with HAM, is completely up to your discretion.
 </span>
  
 

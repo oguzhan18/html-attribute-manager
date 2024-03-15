@@ -1,7 +1,7 @@
 {
-    "name": "jengal-lib",
+    "name": "html-attribute-manager",
     "version": "0.0.1",
-    "description": "Jengal Software public front-end library documentation.",
+    "description": "HTML Attribute Manager Library",
     "main": "index.js",
     "scripts": {
         "start-ssr": "docsify start .",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/#.git"
+        "url": "git+https://github.com/oguzhan18/html-attribute-manager.git"
     },
     "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/#"
+        "url": "https://github.com/oguzhan18/html-attribute-manager"
     },
-    "homepage": "https://github.com/oguzhan18/#readme",
+    "homepage": "https://github.com/oguzhan18/html-attribute-manager/#readme",
     "devDependencies": {
         "docsify-cli": "^4.4.3"
     }

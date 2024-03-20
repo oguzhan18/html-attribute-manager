@@ -1,6 +1,6 @@
 {
   "name": "html-attribute-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript library for managing HTML elements with specific attributes.",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,14 @@
     "html",
     "attribute",
     "manager",
-    "javascript"
+    "javascript",
+    "html-attribute",
+    "html-managment"
   ],
   "author": "Oğuzhan ÇART",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oguzhan18/html-attribute-manager/issues"
   },
-  "homepage": "https://github.com/oguzhan18/html-attribute-manager#readme"
+  "homepage": "https://html-attribute-manager.vercel.app/#/"
 }
